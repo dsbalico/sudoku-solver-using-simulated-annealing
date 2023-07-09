@@ -41,7 +41,7 @@ function App() {
 			<footer className='py-4 mt-12'>
 				<p className='text-center text-gray-800 dark:text-gray-300 text-xs'>
 					Made with <span className='text-red-500 dark:text-red-600'>❤️</span> by Daniel Shan Balico - {' '}
-					<a className='bg-gray-800 px-2 py-1 text-gray-50 rounded-sm dark:bg-gray-900 hover:bg-gray-700 cursor-pointer dark:hover:bg-gray-950 transition'>⭐ Star me on Github</a>
+					<a href="https://github.com/dsbalico/sudoku-solver-using-simulated-annealing" target='_blank' className='bg-gray-800 px-2 py-1 text-gray-50 rounded-sm dark:bg-gray-900 hover:bg-gray-700 cursor-pointer dark:hover:bg-gray-950 transition'>⭐ Star me on Github</a>
 				</p>
 			</footer>
 		</div>
