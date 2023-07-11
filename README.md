@@ -1,6 +1,9 @@
 
 # Sudoku Solver Using Simulated Annealing
-This web app uses Simulated Annealing to solve Sudoku puzzles. Sudoku is a number puzzle where a 9x9 grid must be filled with digits 1 to 9, ensuring each row, column, and 3x3 sub-grid has all digits once.
+<p align="center">
+  <img src="https://www.dropbox.com/s/ifgung48dlcrw61/sudoku-solver-using-simulated-annealing-cover.png?raw=1" />
+</p> 
+This web app uses Simulated Annealing to solve Sudoku puzzles. Sudoku is a number puzzle where a 9x9 grid must be filled with digits 1 to 9, ensuring each row, column, and 3x3 sub-grid has all digits once.  
 
 Simulated Annealing is an optimization algorithm inspired by metallurgy. It's effective for solving Sudoku and similar problems. It starts with an initial solution and makes random changes, accepting or rejecting them based on a probability. The algorithm converges towards an optimal solution over time.
 
